@@ -60,6 +60,12 @@ Maximize festive season profits
 
 📷 Visualizations Included
 
+<img width="907" height="941" alt="image" src="https://github.com/user-attachments/assets/4dfdc968-2b42-4a02-9030-40f94e3aa22e" />
+
+<img width="912" height="810" alt="image" src="https://github.com/user-attachments/assets/4b5770eb-395b-4eb9-84a9-a2f1ba92959a" />
+
+
+
 📊 Gender-wise sales distribution
 
 📊 Age group vs. total revenue
